@@ -16,5 +16,9 @@ Deploy the app in Azure Cloud Shell
 
 In Azure Cloud Shell, clone the repo:
 
-git clone git@github.com:bobfoster1299/building-a-cicd-pipeline2.git
+Set up SSH Key in github account and then git clone git@github.com:lujiangCassie/Azure_DevOps_Project2.git.
+
+![Github_Connect_Cloud](https://github.com/lujiangCassie/Azure_DevOps_Project2/assets/127454188/829e166b-1932-4a5b-a4b9-406cf412653a)
+
+
 
